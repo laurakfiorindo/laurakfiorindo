@@ -1,5 +1,4 @@
-### Hey, I'm Laura!
----
+### Hey, I'm Laura!  <img src="https://media4.giphy.com/media/zJ3V6Ot51H8Y0/200w.webp?cid=ecf05e47obn45pf82q2ej2h3o6o8z4znminaeuq2hunx0s44&rid=200w.webp" width="30">
 
 <p align="center">
   <img src="https://github.com/laurakfiorindo/laurakfiorindo/blob/main/capa_git.png" width="100%" title="Intro Card" alt="Intro Card">

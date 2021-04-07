@@ -44,9 +44,7 @@ I have been working mostly with R, my favorite language and the one I consider t
   
   <br>
 
-  [![Laura K. Fiorindo GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurakfiorindo&show_icons=true&count_private=true)](https://github.com/laurakfiorindo)
-  [![Laura K. Fiorindo GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurakfiorindo&show_icons=true&count_private=true)](https://github.com/laurakfiorindo)
-
+  [![Laura K. Fiorindo GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurakfiorindo&show_icons=true&count_private=true)](https://github.com/laurakfiorindo)                  [![Laura K. Fiorindo GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurakfiorindo&show_icons=true&count_private=true)](https://github.com/laurakfiorindo)
 
   [![gganimagte Project](https://github-readme-stats.vercel.app/api/pin/?username=laurakfiorindo&repo=gganimate&show_owner=true)](https://github.com/laurakfiorindo/gganimate)
 

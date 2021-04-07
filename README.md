@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey there 👋
+---
 
-<!--
-**laurakfiorindo/laurakfiorindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/laurakfiorindo/laurakfiorindo/blob/main/capa_git.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
-Here are some ideas to get you started:
+I am statistics student at Universidade Federal de Minas Gerais, current working as an intern in Oper. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- 📍Currently base at: Belo Horizonte, Brazil
+
+### Languages and Tools
+
+<a href="https://github.com/laurakfiorindo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurakfiorindo&layout=compact" />
+</a>
+
+### You can find in me in the web 🌍
+
+[![Gitlab Badge](https://img.shields.io/badge/-@laurakfiorindo-292961?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/laurakfiorindo)](https://gitlab.com/laurakfiorindo)
+[![Linkedin Badge](https://img.shields.io/badge/-LauraKubitschekFiorindo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-kubitschek-fiorindo-1b2575180/)](https://www.linkedin.com/in/laura-kubitschek-fiorindo-1b2575180/)
+[![Instagram Badge](https://img.shields.io/badge/-@laurakubitschek-C73567?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/laurakubitschek/)](https://instagram.com/laurakubitschek)

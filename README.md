@@ -26,17 +26,20 @@
 
 ### 💻:keyboard: Languages and Tools
 
-I have been working mostly with R, my favorite language and the one I consider to be better at. I also love learning and getting to know new languages and tools.
+I love learning and getting to know new languages and tools.I have been working mostly with R, my favorite language and the one I consider to be better at.
 
 - [![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
 [![RStudio](https://img.shields.io/badge/-75AADB?style=flat&logo=RStudio&logoColor=white&link=https://github.com/laurakfiorindo "RStudio")](https://github.com/laurakfiorindo)
+- [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
+[![GitLab](https://img.shields.io/badge/-GitLab-292961?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/laurakfiorindo)](https://gitlab.com/laurakfiorindo)
+
+Looking forward to improving my knowledge about:
+
 - [![Python](https://img.shields.io/badge/-Python-F7CC40?style=flat&logo=python&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
 - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo) 
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
 - [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
-- [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
-[![GitLab](https://img.shields.io/badge/-GitLab-292961?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/laurakfiorindo)](https://gitlab.com/laurakfiorindo)
 
 
 <details>

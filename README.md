@@ -9,7 +9,7 @@
  <img src="https://media4.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=ecf05e47fj95wcws5n4h4ecf2gx6ebhlsi8solozv8e9fyue&rid=giphy.gif" width="30">Data Talker Intern at <a href="https://operdata.com.br/">Oper</a> 
 </em></p>
 
-*Read my profile in other language | Leia meu perfil em outro idioma : [Portuguese|Português](README.PT.md),*
+*Read my profile in other language | Leia meu perfil em outro idioma : [Portuguese|Português](README.PT.md)*
 
 ---
 

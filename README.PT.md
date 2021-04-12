@@ -1,7 +1,7 @@
 ### Ei, eu sou a Laura!  <img src="https://media4.giphy.com/media/zJ3V6Ot51H8Y0/200w.webp?cid=ecf05e47obn45pf82q2ej2h3o6o8z4znminaeuq2hunx0s44&rid=200w.webp" width="30">
 
 <p align="center">
-  <img src="https://github.com/laurakfiorindo/laurakfiorindo/blob/main/capa_git.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/laurakfiorindo/laurakfiorindo/blob/main/capa_git_pt.png?raw=true" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 <img src="https://media3.giphy.com/media/dxUWcK9sYNsAE323kY/giphy.gif?cid=ecf05e47kk27tg1lt1ok4sfhseplbetxobmgw6u4kli1hf4p&rid=giphy.gif" width="30"><em> Estudante de Estatística na <a href="https://ufmg.br/">Universidade Federak de Minas Gerais (UFMG)</a>

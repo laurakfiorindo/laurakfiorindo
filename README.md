@@ -4,9 +4,9 @@
   <img src="https://github.com/laurakfiorindo/laurakfiorindo/blob/main/capa_git.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-<img src="https://media3.giphy.com/media/dxUWcK9sYNsAE323kY/giphy.gif?cid=ecf05e47kk27tg1lt1ok4sfhseplbetxobmgw6u4kli1hf4p&rid=giphy.gif" width="30"><em> Statistcs Student at <a href="https://ufmg.br/">Federal University of Minas Gerais (UFMG)</a>
+<img src="https://media3.giphy.com/media/dxUWcK9sYNsAE323kY/giphy.gif?cid=ecf05e47kk27tg1lt1ok4sfhseplbetxobmgw6u4kli1hf4p&rid=giphy.gif" width="30"><em> Statistcs <a href="https://ufmg.br/">(Federal University of Minas Gerais - UFMG)</a>
   
- <img src="https://media4.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=ecf05e47fj95wcws5n4h4ecf2gx6ebhlsi8solozv8e9fyue&rid=giphy.gif" width="30">Data Talker Intern at <a href="https://operdata.com.br/">Oper</a> 
+ <img src="https://media4.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=ecf05e47fj95wcws5n4h4ecf2gx6ebhlsi8solozv8e9fyue&rid=giphy.gif" width="30">Data Scientist at <a href="https://operdata.com.br/">Oper</a> 
 </em></p>
 
 *Read my profile in other language | Leia meu perfil em outro idioma : [Portuguese|Português](README.PT.md)*

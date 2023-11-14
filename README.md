@@ -30,18 +30,13 @@
 
 I love learning and getting to know new languages and tools.I have been working mostly with python and R.
 
+- [![Python](https://img.shields.io/badge/-Python-F7CC40?style=flat&logo=python&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
+- [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
 - [![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
 [![RStudio](https://img.shields.io/badge/-75AADB?style=flat&logo=RStudio&logoColor=white&link=https://github.com/laurakfiorindo "RStudio")](https://github.com/laurakfiorindo)
 - [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
 [![GitLab](https://img.shields.io/badge/-GitLab-292961?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/laurakfiorindo)](https://gitlab.com/laurakfiorindo)
-
-Looking forward to improving my knowledge about:
-
-- [![Python](https://img.shields.io/badge/-Python-F7CC40?style=flat&logo=python&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
-- [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
-- [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
 
 
 <details>
@@ -49,7 +44,7 @@ Looking forward to improving my knowledge about:
   
   <br>
 
-  [![Laura K. Fiorindo GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurakfiorindo&show_icons=true&count_private=true)](https://github.com/laurakfiorindo)                  [![Laura K. Fiorindo GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurakfiorindo&show_icons=true&count_private=true)](https://github.com/laurakfiorindo)
+<> [![Laura K. Fiorindo GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurakfiorindo&show_icons=true&count_private=true)](https://github.com/laurakfiorindo)                  [![Laura K. Fiorindo GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurakfiorindo&show_icons=true&count_private=true)](https://github.com/laurakfiorindo)
 
   [![gganimagte Project](https://github-readme-stats.vercel.app/api/pin/?username=laurakfiorindo&repo=gganimate&show_owner=true)](https://github.com/laurakfiorindo/gganimate)
 
@@ -61,4 +56,3 @@ Looking forward to improving my knowledge about:
 
 [![Gitlab Badge](https://img.shields.io/badge/-@laurakfiorindo-292961?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/laurakfiorindo)](https://gitlab.com/laurakfiorindo)
 [![Linkedin Badge](https://img.shields.io/badge/-LauraKubitschekFiorindo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-kubitschek-fiorindo-1b2575180/)](https://www.linkedin.com/in/laura-kubitschek-fiorindo-1b2575180/)
-[![Instagram Badge](https://img.shields.io/badge/-@laurakubitschek-C73567?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/laurakubitschek/)](https://instagram.com/laurakubitschek)

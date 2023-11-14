@@ -6,7 +6,7 @@
 
 <img src="https://media3.giphy.com/media/dxUWcK9sYNsAE323kY/giphy.gif?cid=ecf05e47kk27tg1lt1ok4sfhseplbetxobmgw6u4kli1hf4p&rid=giphy.gif" width="30"><em> Statistcs <a href="https://ufmg.br/">(Federal University of Minas Gerais - UFMG)</a>
   
- <img src="https://media4.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=ecf05e47fj95wcws5n4h4ecf2gx6ebhlsi8solozv8e9fyue&rid=giphy.gif" width="30">Data Scientist at <a href="https://operdata.com.br/">Oper</a> 
+ <img src="https://media4.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=ecf05e47fj95wcws5n4h4ecf2gx6ebhlsi8solozv8e9fyue&rid=giphy.gif" width="30">Data Scientist at <a href="https://inter.co/">Inter</a> 
 </em></p>
 
 *Read my profile in other language | Leia meu perfil em outro idioma : [Portuguese|Português](README.PT.md)*
@@ -16,8 +16,8 @@
 ### About me
 
 - 📍 Belo Horizonte, Brazil
-- 📊 Statiscts student, interested in modeling, machine learning and shiny dashboards
-- 💻 Currently working at Oper: Statistics and Data Science Consulting for Companies to Extract Value from Data
+- 📊 Statiscts graduete, interested in machine learning models, python, R, SQL, git CI/CD
+- 💻 Currently working at Inter: digital bank with more than 30 million clients
 - 🏟 Sports lover, especially volleyball 🏐, football 🏈 and soccer ⚽
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ### 💻:keyboard: Languages and Tools
 
-I love learning and getting to know new languages and tools.I have been working mostly with R, my favorite language and the one I consider to be better at.
+I love learning and getting to know new languages and tools.I have been working mostly with python and R.
 
 - [![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/laurakfiorindo)](https://github.com/laurakfiorindo)
 [![RStudio](https://img.shields.io/badge/-75AADB?style=flat&logo=RStudio&logoColor=white&link=https://github.com/laurakfiorindo "RStudio")](https://github.com/laurakfiorindo)
